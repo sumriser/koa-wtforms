@@ -1,0 +1,20 @@
+{
+  "name": "koa-wtforms",
+  "version": "0.0.1",
+  "description": "A koa port of wtforms, a flexible forms validation library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "validator",
+    "wtforms"
+  ],
+  "author": "sumriser",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "validator": "^12.1.0"
+  }
+}
